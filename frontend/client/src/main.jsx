@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
-import { SocketProvider } from './contexts/SocketProvider.js'
+import { SocketProvider } from './contexts/SocketProvider.jsx'
 import App from './App.jsx'
 import './index.css'
 
