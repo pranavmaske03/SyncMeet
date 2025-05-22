@@ -16,6 +16,7 @@
     "@liveblocks/react": "^2.24.2",
     "@liveblocks/yjs": "^2.24.2",
     "@mui/material": "^7.1.0",
+    "@tailwindcss/vite": "^4.1.7",
     "axios": "^1.9.0",
     "codemirror": "^6.0.1",
     "lucide-react": "^0.511.0",
@@ -27,6 +28,7 @@
     "react-toast": "^1.0.3",
     "shadcn-ui": "^0.9.5",
     "socket.io-client": "^4.8.1",
+    "tailwindcss": "^4.1.7",
     "uuid": "^11.1.0",
     "y-codemirror.next": "^0.3.5",
     "yjs": "^13.6.27"
